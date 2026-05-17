@@ -1,4 +1,4 @@
-# Slides and code samples
+# A basic PDF writer in 7 Python generators
 
 For my PyCon US 2026 talk *"Taking generators too far: writing a PDF from scratch in Python"*
 
